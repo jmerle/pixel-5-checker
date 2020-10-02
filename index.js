@@ -4,7 +4,7 @@ const { setIntervalAsync } = require('set-interval-async/dynamic');
 
 const URL = 'https://store.google.de/config/pixel_5';
 
-// Change to nth-child(2) if you are planning to buy the Sorta Sage variant
+// Change to nth-child(2) if you are planning to buy the Sorta Saga variant
 const BUTTON_SELECTOR = '#mqn-slick-gallery > div:nth-child(1) button';
 
 async function check() {
