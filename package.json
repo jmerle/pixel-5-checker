@@ -1,0 +1,13 @@
+{
+  "name": "pixel-5-checker",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "open": "^7.3.0",
+    "playwright": "^1.4.2",
+    "set-interval-async": "^1.0.33"
+  }
+}
